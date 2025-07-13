@@ -40,3 +40,8 @@ console.log("Sessions longer than 30 min:", longSessions(hobbyLog, 30));
 
 // Output print: Count of sessions with the mood was "relaxed".
 console.log("Number of relaxed sessions:", countMood(hobbyLog, "relaxed"));
+
+// Suggest an Improvement
+// - Adding the favorite hobbies among the week.
+// - Adding more data for weekends so that it could be the full weekly list.
+// - 
